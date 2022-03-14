@@ -9,7 +9,7 @@
 
 - 🐞 **Bug Hunter!**
 
-- 🔭 I’m currently working on **FN-Hosting and Anorax**
+- 🔭 I’m currently working on [FN-Hosting](https://fn-hosting.com)
 
 - 👨‍💻 Portfolio [https://munken.one](https://munken.one)
 
