@@ -9,13 +9,13 @@
 
 - 🐞 **Bug Hunter!**
 
-- 🔭 I’m currently working on Ravexsa
+- 🔭 I’m currently working on [Velmico](https://velmico.se)
 
 - 👨‍💻 Portfolio [https://munken.one](https://munken.one)
 
 - 💬 Ask me about **Aviation, Hosting in general, or any other question :)**
 
-- 📫 How to reach me **hi@munken.one**
+- 📫 How to reach me **liam@velmico.se**
 
 - ⚡ Fun fact **I am an Aviation Enthusiast.**
 
